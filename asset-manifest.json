@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Basics-and-React-State---Render-React-Component---qnlzt3avxty1/static/css/main.e6c13ad2.css",
+    "main.js": "/React-Basics-and-React-State---Render-React-Component---qnlzt3avxty1/static/js/main.c7b2e9c3.js",
+    "static/js/787.9d2d08f9.chunk.js": "/React-Basics-and-React-State---Render-React-Component---qnlzt3avxty1/static/js/787.9d2d08f9.chunk.js",
+    "index.html": "/React-Basics-and-React-State---Render-React-Component---qnlzt3avxty1/index.html",
+    "main.e6c13ad2.css.map": "/React-Basics-and-React-State---Render-React-Component---qnlzt3avxty1/static/css/main.e6c13ad2.css.map",
+    "main.c7b2e9c3.js.map": "/React-Basics-and-React-State---Render-React-Component---qnlzt3avxty1/static/js/main.c7b2e9c3.js.map",
+    "787.9d2d08f9.chunk.js.map": "/React-Basics-and-React-State---Render-React-Component---qnlzt3avxty1/static/js/787.9d2d08f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c7b2e9c3.js"
+  ]
+}
